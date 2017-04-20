@@ -1,11 +1,11 @@
 # 个人博客系统使用
 
-##工具使用
+## 工具使用
  使用GitHub pages + Hexo 快速搭建个性化博客
  
 使用hexo搭建，主题使用next
 
-##环境搭建
+## 环境搭建
 1. 先安装[nodeJS](https://nodejs.org/en/)和[Git客户端](https://desktop.github.com/)，然后git clone该工程
 
 2. 进入blogweb目录，npm install （下载依赖包）建议先配置一个淘宝npm下载镜像地址：[https://npm.taobao.org/](https://npm.taobao.org/)

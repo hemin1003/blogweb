@@ -1,8 +1,6 @@
-# 个人博客系统使用，[访问地址](https://hemin1003.github.io/)
+# 使用GitHub pages + Hexo 快速搭建个性化博客，[访问地址](https://hemin1003.github.io/)
 
 ## 工具使用
- 使用GitHub pages + Hexo 快速搭建个性化博客
- 
 使用hexo搭建，主题使用next
 
 ## 环境搭建

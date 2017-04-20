@@ -13,6 +13,7 @@
 3. hexo generate（生成项目静态资源）
 
 4. hexo server（启动服务），访问地址：[http://localhost:4000/](http://localhost:4000/)
+![avatar](/source/uploads/intro.png)
 
 ## 将本地文件部署到GitHub
 

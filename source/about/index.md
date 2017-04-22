@@ -1,26 +1,38 @@
 ---
-title: 关于我
-date: 2017-04-19 17:47:04
+title: 关于贺敏
+date: 2017-04-20 20:47:04
 type: "about"
 ---
+***
+![avatar](../uploads/avatar.png)
 
 ## 个人简介
-* 待更新
+大家好，我叫贺敏，立志做一名终生学习者。
+
+>书山有路勤为径，
+学海无涯苦作舟。
+驾舟行船奔大海，
+收藏海中学无边。
 
 ## 工作经历
-* 待更新
+六年以上软件开发相关工作经验，三年左右架构和管理、运维工作经验。擅长系统架构，系统研发，团队建设，以及软件工程。对微服务，高性能，高可用性，分布式，高并发，以及海量数据处理有一些经验和心得。平时喜欢关注底层技术实现、新技术趋势发展和互联网行业应用。技术最擅长Java，也涉及Unix/Linux/Windows/C++，前端Js开发，以及数据库优化等方面。
+
+软件开发工作了这些年，待过大型上市公司，也待过初期创业公司。给南方航天公司做过项目，给中国电信、广发银行、汇丰银行、广州国土局等做过项目，参与过大型跨国际合作项目。
+
+目前在一家智能硬件公司中任职云架构师，主要负责智能家居的产品研发和系统架构，以及团队搭建等方面的工作。
 
 ## 网络信息
+QQ：469580884
+微信号：hemin_it
+Email：hemin_it@163.com
+GitHub：[https://github.com/hemin1003](https://github.com/hemin1003)
+CSDN：[http://blog.csdn.net/hemin1003](http://blog.csdn.net/hemin1003)
+新浪微博：[http://weibo.com/hemin1003](http://weibo.com/hemin1003)
 
-* QQ：469580884
-* 微信号：hemin_it
-* Email：hemin_it@163.com
-* GitHub：[https://github.com/hemin1003](https://github.com/hemin1003)
-* CSDN：[http://blog.csdn.net/hemin1003](http://blog.csdn.net/hemin1003)
-* 豆瓣书单：[https://www.douban.com/people/hemin1003/](https://www.douban.com/people/hemin1003/)
-* 新浪微博：[http://weibo.com/hemin1003](http://weibo.com/hemin1003)
-* 知乎：[https://www.zhihu.com/people/hemin1003/activities](https://www.zhihu.com/people/hemin1003/activities)
-* Twitter：待更新
-* facebook：待更新
-* linkedin：待更新
+[我的知乎](https://www.zhihu.com/people/hemin1003/activities)
+[我的豆瓣书单](https://book.douban.com/people/hemin1003/)
+
+Twitter：待更新
+facebook：待更新
+linkedin：待更新
 

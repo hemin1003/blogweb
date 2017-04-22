@@ -29,7 +29,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -309,14 +309,14 @@ han: false
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: 
   count: true
 
 # Hypercomments
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: 1a8e80132abb4e4b8a516cf0f3587876
 
 # changyan
 changyan:
@@ -414,19 +414,19 @@ leancloud_visitors:
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
-  enable: false
+  enable: true
   # custom uv span for the whole site
   site_uv: true
-  site_uv_header: <i class="fa fa-user"></i>
-  site_uv_footer:
+  site_uv_header: 本站访客数
+  site_uv_footer: 人次
   # custom pv span for the whole site
   site_pv: true
-  site_pv_header: <i class="fa fa-eye"></i>
-  site_pv_footer:
+  site_pv_header: 本站总访问量
+  site_pv_footer: 次
   # custom pv span for one page only
   page_pv: true
-  page_pv_header: <i class="fa fa-file-o"></i>
-  page_pv_footer:
+  page_pv_header: 本文总阅读量
+  page_pv_footer: 次
 
 
 # Tencent analytics ID
@@ -469,7 +469,13 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
 # External URL with BASE64 encrypt & decrypt
 # Usage: {% exturl text url "title" %}

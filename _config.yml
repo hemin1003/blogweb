@@ -71,3 +71,6 @@ deploy:
   type: git
   repository: git@github.com:hemin1003/hemin1003.github.io.git
   branch: master
+
+# JiaThis 分享服务
+jiathis: true

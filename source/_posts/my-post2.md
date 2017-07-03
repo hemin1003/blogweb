@@ -286,5 +286,7 @@ categories:
  ## 尾记
  看完有信心能坚持学习吗？如果你的答案是肯定的，那就当下开始行动吧！Fighting~
  推荐两个相关的学习博客地址：
+
+ * [Hadoop学习教程](http://blog.csdn.net/hemin1003/article/category/6985523/)
  * [Hadoop家族系列文章](http://blog.fens.me/series-hadoop-family/)
  * [Hadoop使用教程](http://www.powerxing.com/tag/hadoop/)

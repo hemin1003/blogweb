@@ -36,13 +36,13 @@ type: "about"
 - 微信号：hemin_it
 - Email：hemin_it@163.com
 - [GitHub 源码分享](https://github.com/hemin1003)：个人开源项目累积超过6个，累积 Star 数过1k
-- [CSDN 技术博客](http://blog.csdn.net/hemin1003)：认证博客专家，累积过百万访问+
+- [CSDN 技术博客](http://blog.csdn.net/hemin1003)：认证博客专家，累积超百万访问+
 - [我的知乎](https://www.zhihu.com/people/hemin1003/activities)
 - [我的豆瓣书单](https://book.douban.com/people/hemin1003/)
 
 ## 技术圈子
 
-- 加入我的互联网技术QQ群：群号 751925591，近千人与你一起学习、讨论和交流 <img src="../uploads/qqgroup.png" width = "180" height = "120" alt="qqgroup" align=center />
+- 加入我的互联网技术QQ群：群号 751925591，近千人小伙伴与你一起学习、讨论和交流 <img src="../uploads/qqgroup.png" width = "180" height = "120" alt="qqgroup" align=center />
 
 - 加入我的微信学习成长群：先加我微信号：hemin_it，备注：学习成长（不然通不过），然后才能拉进群。每工作日的12点30分，我会在群里分享一篇行业大牛的付费文章，包含但不限定于：招聘、沟通、协作、产品、运营、技术、测试、架构、管理等，已坚持超过两年时间，欢迎你的加入~
 

@@ -34,6 +34,7 @@ type: "about"
 - 我的个人互联网关键词：hemin1003 (可百度/谷歌搜索)
 - QQ：469580884
 - 微信号：hemin_it
+- 微信公众号：贺佬湿
 - Email：hemin_it@163.com
 - [GitHub 源码分享](https://github.com/hemin1003)：个人开源项目累积超过6个，累积 Star 数过1k
 - [CSDN 技术博客](http://blog.csdn.net/hemin1003)：认证博客专家，累积超百万访问+
